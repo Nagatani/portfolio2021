@@ -3,15 +3,13 @@
   import FaTwitterSquare from 'svelte-icons/fa/FaTwitterSquare.svelte'
   import FaGithubSquare from 'svelte-icons/fa/FaGithubSquare.svelte'
 
-let checked;
-let y
+  let y
 </script>
 
 <svelte:window bind:scrollY={y}/>
 
 <aside class="drawer_main">
-
-  {#if y > 200}
+  {#if y > 100}
 	<input type="checkbox" id="drawer-switch" checked>
   {:else}
 	<input type="checkbox" id="drawer-switch">
@@ -24,7 +22,7 @@ let y
     <div class="names">
       <h1>TARO REIDAI</h1>
       <p>PORTFOLIO OF TARO REIDAI</p>
-      <p>Web Designer, Web Director, Programmer</p>
+      <p>UX Designer / Web Designer / Programmer</p>
     </div>
     <div class="social">
       <ul>
@@ -45,14 +43,16 @@ let y
   width: 90%;
   height: 100%;
   background-color: white;
-  transition: all 0.3s;
+  transition: all 0.75s cubic-bezier(.85,0,.15,1);
 
   display: grid;
   grid-template: 
     "header      header header header" 150px
     "left        main   social right"  1fr
     "left-bottom bottom bottom right"  150px
-    / 150px      1fr    250px  150px;
+    / 150px      1fr    250px  200px;
+
+    z-index: 999999;
 }
 .drawer .drawer-label {
   width: 100px;
@@ -139,10 +139,10 @@ let y
 .closed_name {
   position: absolute;
   transform: rotate(-90deg);
-  font-size: 4rem;
+  font-size: 3rem;
   line-height: 1;
-  right: -132px;
-  bottom: 180px;
+  right: -112px;
+  bottom: 130px;
   color: #888;
   visibility: hidden;
 }
@@ -152,7 +152,7 @@ let y
   visibility: hidden;
 }
 #drawer-switch:checked + .drawer {
-  left: calc(-90% + 100px);
+  left: calc(-90% + 75px);
 }
 #drawer-switch:checked + .drawer .drawer-label::before,
 #drawer-switch:checked + .drawer .drawer-label::after {
