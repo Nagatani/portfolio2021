@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#944543;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:#DEE092;}
+	.st2{fill:#944543;}
+	.st3{fill:#65A9E0;}
+	.st4{font-family:'Helvetica';}
+	.st5{font-size:20.8861px;}
+	.st6{fill:#4A7394;}
+	.st7{font-family:'YuGo-Bold-83pv-RKSJ-H';}
+	.st8{font-size:13.2911px;}
+	.st9{font-size:21.0337px;}
+	.st10{font-size:13.3851px;}
+	.st11{font-family:'KozGoPr6N-Regular-83pv-RKSJ-H';}
+	.st12{font-size:27.8481px;}
+	.st13{font-size:17.7215px;}
+</style>
+<circle class="st0" cx="305.5" cy="300.5" r="263"/>
+<g>
+	<g>
+		<circle class="st1" cx="129" cy="137" r="74.5"/>
+		<path class="st2" d="M129,63c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S88.2,63,129,63 M129,62c-41.42,0-75,33.58-75,75
+			s33.58,75,75,75s75-33.58,75-75S170.42,62,129,62L129,62z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 65.3721 137)" class="st3 st4 st5">Programming</text>
+	<text transform="matrix(1 0 0 1 82.4712 152.7637)" class="st6 st7 st8">プログラミング</text>
+</g>
+<g>
+	<g>
+		<circle class="st1" cx="489" cy="458" r="74.5"/>
+		<path class="st2" d="M489,384c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S448.2,384,489,384 M489,383
+			c-41.42,0-75,33.58-75,75s33.58,75,75,75s75-33.58,75-75S530.42,383,489,383L489,383z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 443.3564 457.999)" class="st3 st4 st5">Buisiness</text>
+	<text transform="matrix(1 0 0 1 462.4072 473.7627)" class="st6 st7 st8">ビジネス</text>
+</g>
+<g>
+	<g>
+		<circle class="st1" cx="121" cy="458" r="74.5"/>
+		<path class="st2" d="M121,384c40.8,0,74,33.2,74,74s-33.2,74-74,74s-74-33.2-74-74S80.2,384,121,384 M121,383
+			c-41.42,0-75,33.58-75,75s33.58,75,75,75s75-33.58,75-75S162.42,383,121,383L121,383z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 98.5781 458)" class="st3 st4 st5">Web</text>
+	<text transform="matrix(1 0 0 1 101.0537 473.7637)" class="st6 st7 st8">ウェブ</text>
+</g>
+<g>
+	<g>
+		<circle class="st1" cx="488.75" cy="136.55" r="75.03"/>
+		<path class="st2" d="M488.74,62.02c41.1,0,74.53,33.43,74.53,74.53s-33.43,74.53-74.53,74.53s-74.53-33.43-74.53-74.53
+			S447.65,62.02,488.74,62.02 M488.74,61.02c-41.71,0-75.53,33.82-75.53,75.53s33.82,75.53,75.53,75.53s75.53-33.82,75.53-75.53
+			S530.46,61.02,488.74,61.02L488.74,61.02z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 433.4067 136.55)" class="st3 st4 st9">Photograph</text>
+	<text transform="matrix(1 0 0 1 448.5786 152.425)" class="st6 st7 st10">フォトグラフ</text>
+</g>
+<g>
+	<g>
+		<circle class="st1" cx="305" cy="297" r="99.5"/>
+		<path class="st2" d="M305,198c54.59,0,99,44.41,99,99s-44.41,99-99,99s-99-44.41-99-99S250.41,198,305,198 M305,197
+			c-55.23,0-100,44.77-100,100s44.77,100,100,100s100-44.77,100-100S360.23,197,305,197L305,197z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 260.2637 297.001)" class="st3 st11 st12">Design</text>
+	<text transform="matrix(1 0 0 1 269.5444 318.0186)" class="st6 st7 st13">デザイン</text>
+</g>
+</svg>

@@ -21,7 +21,7 @@
 
 <style>
 .career {
-  min-height: 100vh;
+  min-height: 150vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -35,8 +35,7 @@
 .inner {
   background: #fff;
   padding: 5rem;
-  min-height: 30vh;
-  width: 50vw;
+  width: 60vw;
   letter-spacing: 0.2rem;
   display: flex;
   position: relative;
@@ -45,17 +44,19 @@
 	content: "Career";
 	position: absolute;
   padding: 1rem 3rem;
-	transform: rotate(-5deg);
+	transform: rotate(8deg);
   background-color: rgba(255, 255, 255, 0.471);
 	top: -45px;
-	left: -45px;
+	right: -45px;
 	color: rgba(0, 0, 0, 0.45);
 	font-size: 5rem;
-  letter-spacing: 0.2rem;
+  letter-spacing: 0;
 	font-family: 'Allura', cursive;
 }
 dt {
   margin: 1.5rem 0 1rem;
+  font-weight: 700;
+  color: gray;
 }
 dd {
   margin: 1rem 0 1rem 3rem;

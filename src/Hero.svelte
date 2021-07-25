@@ -10,40 +10,37 @@
   min-height: 100vh;
   width: 100%;
   overflow: hidden;
-  background-image: url("../images/meadow-4485609_1920.jpg");
+  background-image: url("../images/PASONA_9_TP_V.jpg");
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
 }
-
-.scrolldown1{
+.scrolldown1 {
 	position:absolute;
 	right:2rem;
 	bottom:1rem;
 	height:100px;
 }
-.scrolldown1 span{
+.scrolldown1 span {
 	position: absolute;
   left: -30px;
   top: -50px;
-  color: #eee;
+  color: #333;
   font-size: 1.5rem;
   letter-spacing: 0.05em;
   transform: rotate(-90deg);
 }
-
-/* 線の描写 */
-.scrolldown1::after{
+.scrolldown1::after {
 	content: "";
 	position: absolute;
 	top: 0;
 	width: 10px;
 	height: 50px;
-	background: #eee;
+	background: #333;
 	animation: pathmove 1.4s ease-in-out infinite;
 	opacity:0;
 }
-@keyframes pathmove{
+@keyframes pathmove {
 	0%{
     height:0;
 		top:0;

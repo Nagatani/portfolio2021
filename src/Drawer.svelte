@@ -21,7 +21,7 @@
     <div class="bottom"></div>
     <div class="names">
       <h1>TARO REIDAI</h1>
-      <p>PORTFOLIO OF TARO REIDAI</p>
+      <p>TARO REIDAI's portfolio</p>
       <p>UX Designer / Web Designer / Programmer</p>
     </div>
     <div class="social">
@@ -31,7 +31,7 @@
         <li><a href="https://github.com/"><FaGithubSquare></FaGithubSquare></a></li>
       </ul>
     </div>
-    <h1 class="closed_name">TARO REIDAI</h1>
+    <h1 class="closed_name">TARO REIDAI's portfolio</h1>
   </div>
 </aside>
 
@@ -40,7 +40,7 @@
   position: fixed;
   top: 0;
   left: 0;
-  width: 90%;
+  width: 95%;
   height: 100%;
   background-color: white;
   transition: all 0.75s cubic-bezier(.85,0,.15,1);
@@ -138,11 +138,14 @@
 
 .closed_name {
   position: absolute;
-  transform: rotate(-90deg);
+  transform: rotate(
+    -90deg
+  );
+  transform-origin: top right;
   font-size: 3rem;
   line-height: 1;
-  right: -112px;
-  bottom: 130px;
+  right: 4rem;
+  bottom: 31rem;
   color: #888;
   visibility: hidden;
 }
@@ -152,7 +155,7 @@
   visibility: hidden;
 }
 #drawer-switch:checked + .drawer {
-  left: calc(-90% + 75px);
+  left: calc(-95% + 75px);
 }
 #drawer-switch:checked + .drawer .drawer-label::before,
 #drawer-switch:checked + .drawer .drawer-label::after {

@@ -27,26 +27,27 @@
         単純に美しく見せることだけを突き詰めるのではなく、様々な視点を取り入れられるよう勉学に励み、スムーズな問題解決を促すデザイン能力を磨いています。</p>
     </div>
     <div class="doing">
-      <h2>やりたいこと・やっていること</h2>
+      <h2>やりたいこと・今進めていること</h2>
       <h3>グラフィックデザイン / インフォグラフィックス</h3>
-      <p>グラフィックデザインによる行動設計や、それに伴うリサーチや、マーケティングなどの様々な観点を取り入れたい。</p>
+      <p>グラフィックデザインによる行動設計や、それに伴うリサーチや、マーケティングなどの様々な観点を取り入れられるようになりたい。</p>
     </div>
   </section>
 </section>
 
 <style>
 .profile {
-  min-height: 100vh;
+  min-height: 150vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #e94709;
+  background: #4A7394;
 }
 .aboutme {
   background: #fff;
   padding: 5rem;
   min-height: 30vh;
   width: 50vw;
+  max-width: 100%;
   letter-spacing: 0.2rem;
   display: flex;
   position: relative;
@@ -93,7 +94,7 @@
 }
 
 .profile2 {
-  min-height: 100vh;
+  min-height: 125vh;
   background: #fff;
   display: flex;
   justify-content: center;
@@ -121,14 +122,12 @@ h2:after {
   width: 100%;
   height: 5px;
   content: '';
-  background-image: -webkit-gradient(linear, left top, right top, from(#fa709a), to(#fee140));
-  background-image: -webkit-linear-gradient(left, #fa709a 0%, #fee140 100%);
-  background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+  background-image: linear-gradient(to right, #E07E7B 0%, #DEE092 100%);
 }
 h3 {
   padding: 1.5rem 0;
   font-size: 2rem;
-  color: #e94709;
+  color: #4A7394;
 }
 p {
   font-size: 1.5rem;
