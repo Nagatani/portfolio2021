@@ -4,33 +4,33 @@
 <section class="content-summary">
   <h2>人物撮影</h2>
   <div class="photo-container1">
-    <div class="area0"><img src="../images/people/brooke-cagle-NoRsyXmHGpI-unsplash.jpg" alt=""></div>
-    <div class="area1"><img src="../images/people/ayo-ogunseinde-6W4F62sN_yI-unsplash.jpg" alt=""></div>
-    <div class="area2"><img src="../images/people/ian-dooley-d1UPkiFd04A-unsplash (1).jpg" alt=""></div>
-    <div class="area3"><img src="../images/people/helena-lopes-DkGIAjlIJu0-unsplash.jpg" alt=""></div>
-    <div class="area4"><img src="../images/people/zachary-nelson-98Elr-LIvD8-unsplash.jpg" alt=""></div>
+    <div class="area0"><img src="./images/people/brooke-cagle-NoRsyXmHGpI-unsplash.jpg" alt=""></div>
+    <div class="area1"><img src="./images/people/ayo-ogunseinde-6W4F62sN_yI-unsplash.jpg" alt=""></div>
+    <div class="area2"><img src="./images/people/ian-dooley-d1UPkiFd04A-unsplash (1).jpg" alt=""></div>
+    <div class="area3"><img src="./images/people/helena-lopes-DkGIAjlIJu0-unsplash.jpg" alt=""></div>
+    <div class="area4"><img src="./images/people/zachary-nelson-98Elr-LIvD8-unsplash.jpg" alt=""></div>
   </div>
 </section>
 
 <section class="content-summary">
   <h2>お祭り</h2>
   <div class="photo-container2">
-    <div class="area0"><img src="../images/fest/4fc72f71-6186-4b42-9c6a-1d3bbfc47ed2.jpg" alt=""></div>
-    <div class="area1"><img src="../images/fest/fireworks-945386_1280.jpg" alt=""></div>
-    <div class="area2"><img src="../images/fest/concert-768722_640.jpg" alt=""></div>
-    <div class="area3"><img src="../images/fest/audience-1853662_640.jpg" alt=""></div>
-    <div class="area4"><img src="../images/fest/women-499337_1280.jpg" alt=""></div>
+    <div class="area0"><img src="./images/fest/4fc72f71-6186-4b42-9c6a-1d3bbfc47ed2.jpg" alt=""></div>
+    <div class="area1"><img src="./images/fest/fireworks-945386_1280.jpg" alt=""></div>
+    <div class="area2"><img src="./images/fest/concert-768722_640.jpg" alt=""></div>
+    <div class="area3"><img src="./images/fest/audience-1853662_640.jpg" alt=""></div>
+    <div class="area4"><img src="./images/fest/women-499337_1280.jpg" alt=""></div>
   </div>
 </section>
 
 <section class="content-summary">
   <h2>その他風景</h2>
   <div class="photo-container3">
-    <div class="area0"><img src="../images/other/erik-eastman-4HG5hlhmZg8-unsplash.jpg" alt=""></div>
-    <div class="area1"><img src="../images/other/nicki-eliza-schinow-BjJP2TN8WoI-unsplash.jpg" alt=""></div>
-    <div class="area2"><img src="../images/other/ryoji-iwata-vWfKaO0k9pc-unsplash.jpg" alt=""></div>
-    <div class="area3"><img src="../images/other/alex-knight-wfwUpfVqrKU-unsplash.jpg" alt=""></div>
-    <div class="area4"><img src="../images/other/clay-banks-hwLAI5lRhdM-unsplash.jpg" alt=""></div>
+    <div class="area0"><img src="./images/other/erik-eastman-4HG5hlhmZg8-unsplash.jpg" alt=""></div>
+    <div class="area1"><img src="./images/other/nicki-eliza-schinow-BjJP2TN8WoI-unsplash.jpg" alt=""></div>
+    <div class="area2"><img src="./images/other/ryoji-iwata-vWfKaO0k9pc-unsplash.jpg" alt=""></div>
+    <div class="area3"><img src="./images/other/alex-knight-wfwUpfVqrKU-unsplash.jpg" alt=""></div>
+    <div class="area4"><img src="./images/other/clay-banks-hwLAI5lRhdM-unsplash.jpg" alt=""></div>
   </div>
 </section>
 

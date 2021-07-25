@@ -26,7 +26,7 @@
     </section>
 
     <section class="image">
-      <img src="../images/mobile-mockup-1627101791259.png" alt="mockups">
+      <img src="./images/mobile-mockup-1627101791259.png" alt="mockups">
     </section>
   </div>
 
